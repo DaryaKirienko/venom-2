@@ -3,7 +3,7 @@
 ## Проект выполнила - Кириенко Дарья
 
 в проекте используются: 
--HTML
--CSS
--Javascript
--Normalize
+- HTML
+- CSS
+- Javascript
+- Normalize
